@@ -1,3 +1,5 @@
+// Returning the index of the element to be searched
+
 public class linearSearch {
   public static void main(String[] args) {
     int nums[] = { 8, 7, 9, 5, 4, 6 };
